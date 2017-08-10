@@ -1,0 +1,2 @@
+Kmode_Average_AC  =   0.6667	  	Kmode_Average_NMI =   0.2740      Kmode_Average_ARI =  -0.0714	  	Kmode_Average_PR =   0.7500       Kmode_Average_RE =   0.7500
+SC_Average_AC  =   0.6667		SC_Average_NMI =   0.2740      SC_Average_ARI =  -0.0714	  	SC_Average_PR =   0.7500      SC_Average_RE =   0.7500

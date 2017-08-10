@@ -1,0 +1,22 @@
+CADO KM_Average_AC  =   0.4596	CADO KM_Average_NMI =   0.0542     CADO KM_Average_ARI =   0.0326     
+CADO KM_Average_PR =   0.4881     CADO KM_Average_RE =   0.4338
+CADO SC_Average_AC  =   0.0000	CADO SC_Average_NMI =   0.0000     CADO SC_Average_ARI =   0.0000     
+CADO SC_Average_PR =   0.0000     CADO SC_Average_RE =   0.0000
+
+Weight-CADO Algorithm & the weight is just ws,wf:
+CADOImprove KM_Average_AC  =   0.4654	  	CADOImprove KM_Average_NMI =   0.0652      CADOImprove KM_Average_ARI =   0.0430      
+CADOImprove KM_Average_PR =   0.4936      CADOImprove KM_Average_RE =   0.4429
+CADOImprove SC_Average_AC  =   0.0000		CADOImprove SC_Average_NMI =   0.0000      CADOImprove SC_Average_ARI =   0.0000      
+CADOImprove SC_Average_PR =   0.0000      CADOImprove SC_Average_RE =   0.0000
+
+Weight-CADO Algorithm & the weight is ws*(1/a)*(1/b),wf*(1/a)*(1/b):
+CADOImprove KM_Average_AC  =   0.4593	  	CADOImprove KM_Average_NMI =   0.0409      CADOImprove KM_Average_ARI =   0.0266      
+CADOImprove KM_Average_PR =   0.4730      CADOImprove KM_Average_RE =   0.4231
+CADOImprove SC_Average_AC  =   0.0000		CADOImprove SC_Average_NMI =   0.0000      CADOImprove SC_Average_ARI =   0.0000      
+CADOImprove SC_Average_PR =   0.0000      CADOImprove SC_Average_RE =   0.0000
+
+Weight-CADO Algorithm & the weight is ws*(a/m)*(b/m),wf*(a/m)*(b/m):
+CADOImprove KM_Average_AC  =   0.4449	  	CADOImprove KM_Average_NMI =   0.0282      CADOImprove KM_Average_ARI =   0.0113      
+CADOImprove KM_Average_PR =   0.4520      CADOImprove KM_Average_RE =   0.3900
+CADOImprove SC_Average_AC  =   0.0000		CADOImprove SC_Average_NMI =   0.0000      CADOImprove SC_Average_ARI =   0.0000      
+CADOImprove SC_Average_PR =   0.0000      CADOImprove SC_Average_RE =   0.0000

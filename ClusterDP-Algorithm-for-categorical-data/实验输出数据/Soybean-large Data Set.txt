@@ -1,0 +1,20 @@
+
+Cluster_DP Algorithm Results:
+bindwidth is 0.1 
+DP_Average_AC  =   0.5537		DP_Average_NMI =   0.7093      DP_Average_ARI =   0.2993	  	DP_Average_PR =   0.8932      DP_Average_RE =   0.4000
+bindwidth is 0.2 
+DP_Average_AC  =   0.5472		DP_Average_NMI =   0.7075      DP_Average_ARI =   0.3058	  	DP_Average_PR =   0.8789      DP_Average_RE =   0.3947
+bindwidth is 0.3 
+DP_Average_AC  =   0.5635		DP_Average_NMI =   0.7201      DP_Average_ARI =   0.2969	  	DP_Average_PR =   0.8843      DP_Average_RE =   0.4737
+bindwidth is 0.4 
+DP_Average_AC  =   0.4853		DP_Average_NMI =   0.7025      DP_Average_ARI =   0.2494	  	DP_Average_PR =   0.8877      DP_Average_RE =   0.4421
+bindwidth is 0.5 
+DP_Average_AC  =   0.4853		DP_Average_NMI =   0.6936      DP_Average_ARI =   0.2492	  	DP_Average_PR =   0.8877      DP_Average_RE =   0.4421
+bindwidth is 0.6 
+DP_Average_AC  =   0.4528		DP_Average_NMI =   0.6024      DP_Average_ARI =   0.1546	  	DP_Average_PR =   0.9291      DP_Average_RE =   0.4737
+bindwidth is 0.7 
+DP_Average_AC  =   0.5244		DP_Average_NMI =   0.6767      DP_Average_ARI =   0.2301	  	DP_Average_PR =   0.8862      DP_Average_RE =   0.5895
+bindwidth is 0.8 
+DP_Average_AC  =   0.7036		DP_Average_NMI =   0.7831      DP_Average_ARI =   0.4420	  	DP_Average_PR =   0.8664      DP_Average_RE =   0.7145
+bindwidth is 0.9 
+DP_Average_AC  =   0.6938		DP_Average_NMI =   0.7903      DP_Average_ARI =   0.4380	  	DP_Average_PR =   0.8714      DP_Average_RE =   0.7184

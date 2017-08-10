@@ -1,0 +1,7 @@
+CADO SC_Average_AC  =   0.0000	CADO SC_Average_NMI =   0.0000     CADO SC_Average_ARI =   0.0000 
+CADO DP_Average_AC  =   0.0000	CADO DP_Average_NMI =   0.0000     CADO DP_Average_ARI =   0.0000 
+CADO KM_Average_AC  =   0.4608	CADO KM_Average_NMI =   0.0000     CADO KM_Average_ARI =   0.0000 
+
+CADOImprove SC_Average_AC  =   0.0000		CADOImprove SC_Average_NMI =   0.0000      CADOImprove SC_Average_ARI =   0.0000
+CADOImprove DP_Average_AC  =   0.0000		CADOImprove DP_Average_NMI =   0.0000      CADOImprove DP_Average_ARI =   0.0000
+CADOImprove KM_Average_AC  =   0.4608	  	CADOImprove KM_Average_NMI =   0.0000      CADOImprove KM_Average_ARI =   0.0000
